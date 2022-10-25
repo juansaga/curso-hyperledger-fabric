@@ -1,4 +1,4 @@
-module github.com/blockchainempresarial/curso-hyperledger-fabric/chaincode/foodcontrol
+module github.com/juansaga/curso-hyperledger-fabric/chaincode/foodcontrol
 
 go 1.13
 

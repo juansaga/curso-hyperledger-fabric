@@ -68,5 +68,4 @@ func main() {
 	if err := chaincode.Start(); err != nil {
 		fmt.Printf("Error create foodcontrol chaincode %s", err.Error())
 	}
-
 }
